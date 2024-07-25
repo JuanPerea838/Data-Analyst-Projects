@@ -10,8 +10,8 @@ Ingeniero en Datos e Inteligencia Organizacional recién egresado con experienci
 - Limpieza y Preprocesamiento de Datos
 
 ## Tecnologías y Herramientas
-Lenguajes: Python, R, SQL
-Herramientas: Power BI, Tableau, Excel, 
-Librerías: Pandas, NumPy, Matplotlib, Plotly
+- Lenguajes: Python, R, SQL
+- Herramientas: Power BI, Tableau, Excel, 
+- Librerías: Pandas, NumPy, Matplotlib, Plotly
 
 Explora mis proyectos para ver cómo puedo aportar valor a tu organización. Estoy siempre interesado en nuevas oportunidades y desafíos que me permitan crecer y aplicar mis conocimientos en el análisis de datos.
